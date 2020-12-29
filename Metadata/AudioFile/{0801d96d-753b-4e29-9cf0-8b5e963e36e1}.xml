@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{0801d96d-753b-4e29-9cf0-8b5e963e36e1}">
+		<property name="assetPath">
+			<value>Carn Horn 1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.79369614512471653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{97d680eb-e831-470a-b5f2-2211b1bed217}</destination>
+		</relationship>
+	</object>
+</objects>
